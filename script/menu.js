@@ -13,7 +13,7 @@ const fundos = {
 let imperios = [];
 let imperioSelecionado = null;
 
-fetch("desc_imperios.json")
+fetch("script/desc-imperios.json")
     .then(res => res.json())
     .then(data => {
         imperios = data;

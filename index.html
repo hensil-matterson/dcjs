@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+	
+    <head>
+	
+        <meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+        <title>Desbravando Colonias (JS)</title>
+
+        <!-- Styles para serem executados -->
+		<link rel="stylesheet" href="gfx/style.css">
+
+        <!-- Scripts para serem executados -->
+        <script src="script/menu.js" defer></script> 
+
+    </head>
+	
+    <body>
+
+    <!-- Menu Principal -->
+    <div id="menu-inicial" class="tela-jogo">
+        <h1>Desbravando Colônias</h1>
+        <button onclick="mudarTela('mapa-jogo')">Iniciar Colonização</button>
+        <button onclick="mudarTela('configuracoes')">Configurações</button>
+    </div>
+
+    <!-- Tela do Mapa/Jogo -->
+<div id="mapa-jogo" class="tela-jogo selecionar" style="display: none;">
+
+    <h2>Campanha Principal<br><small>1º de Janeiro, 1648</small></h2>
+
+    <div id="lista-imperios" style="align-items: center;"></div>
+
+    <div id="info-imperio">
+        <div id="imagem-imperio"></div>
+        <div id="texto-imperio"></div>
+    </div>
+
+    <button id="btn-escolher" disabled>Escolher Império</button>
+
+</div>
+
+    <!-- Tela de Configurações -->
+    <div id="configuracoes" class="tela-jogo" style="display: none;">
+        <h2>Configurações</h2>
+        <button onclick="mudarTela('menu-inicial')">Voltar</button>
+    </div>
+
+    </body>
+	
+</html>

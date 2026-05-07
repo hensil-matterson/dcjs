@@ -1,0 +1,37 @@
+[
+    {
+        "id": "port",
+        "nome": "Portugal",
+        "bandeira": "gfx/bandeira/port.png",
+        "imagem": "gfx/desc/portugal_desc.png",
+        "descricao": "Portugal se consolidou como um dos primeiros impérios globais da humanidade pós-medieval, criando uma ampla rede de comércio pelos oceanos atlantico e indico, ligando desde pontos na América até o Japão passando pela Índia e toda costa africana. No entanto, com o desaparecimento do rei português, D. Sebastião, uma série de evento fez com que a Espanha controlasse por uma união o império Português; Devido a negligência espanhola sobre o Império Português e falência de pontos comerciais antigos, Portugal se rebelou e conseguiu por volta de 1610 se separar finalmente da Espanha, agora em uma corrida por restebelcer seu império prejudicado pela coroa Espanhola e retomando suas alianças tribais e com a Inglaterra."
+    },
+    {
+        "id": "espa",
+        "nome": "Espanha",
+        "bandeira": "gfx/bandeira/espa.png",
+        "imagem": "gfx/desc/espanha_desc.png",
+        "descricao": "Grande potência colonial na América..."
+    },
+    {
+        "id": "ingl",
+        "nome": "Inglaterra",
+        "bandeira": "gfx/bandeira/ingl.png",
+        "imagem": "gfx/desc/inglaterra_desc.png",
+        "descricao": "Após a conquista normanda de 1066, o poder real na Inglaterra, a o sul da Grã-Bretanha, se fortaleceu, mas enfrentou limites impostos pela nobreza, como na Magna Carta de 1215. Ao longo dos séculos, conflitos internos, como a Guerra das Rosas, e transformações religiosas, especialmente a Reforma Anglicana iniciada por Henrique VIII, moldaram o país. No século XVII, tensões entre o rei e o Parlamento cresceram, principalmente sobre impostos, religião e autoridade política. Em 1648, após a Guerra Civil Inglesa, a Inglaterra vivia uma profunda instabilidade por conta do rei Carlos I da Inglaterra e o Parlamento, com destaque para uma oposição mais radical liderada por Oliver Cromwell. O desfecho ainda era incerto, variando entre restauração da autoridade real ou maior poder parlamentar. No campo da colonização, a Inglaterra estava sendo muito impulsionada por interesses econômicos e também por grupos religiosos, como os puritanos, que buscavam maior liberdade fora da Europa."
+    },
+    {
+        "id": "fran",
+        "nome": "França",
+        "bandeira": "gfx/bandeira/fran.png",
+        "imagem": "gfx/desc/frança_desc.png",
+        "descricao": "Grande reino do sol"
+    },
+    {
+        "id": "suec",
+        "nome": "Suécia",
+        "bandeira": "gfx/bandeira/suec.png",
+        "imagem": "gfx/desc/suecia_desc.png",
+        "descricao": "Durante os ultimos séculos o império suéco se expandiu de forma ampla e resistiu a diversas guerras de anexação ou contenção. Desde o ínicio do século a metrópole sueca está lutando na Europa contra todo o império construido pelos Habsburgos; sua eminente vitória pode trazer um novo horizonte para nós, os colonos e interessados na expansão e criação de mercados e pontos de comércio suecos na América."
+    }
+]
